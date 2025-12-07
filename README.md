@@ -33,8 +33,3 @@
 - Ensure your executor supports `setfflag` before using.  
 - Use at your own risk — Roblox may patch this at any time.  
 - To report bugs, request new game support, or for general discussion, join our [Discord](https://discord.gg/Zx6tsNkyZX).  
-
----
-
-## 📌 Disclaimer
-This script is intended for educational purposes and testing in games you own or have permission to experiment on. Using it on other servers may violate Roblox's Terms of Service.
