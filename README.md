@@ -1,7 +1,6 @@
 # Desync
 
-![Roblox](https://img.shields.io/badge/Platform-Roblox-blue)
-![Status](https://img.shields.io/badge/Status-Active-green)
+
 
 **Desync** is a universal Roblox desync script
 
