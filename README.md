@@ -12,7 +12,7 @@
 - Wave  
 - Potassium  
 
-## Maube Supported Mobile Executors (not tested)
+## Maybe Supported Mobile Executors (not tested)
 - Codex
 - Arceus X
 - Fluxus Z
