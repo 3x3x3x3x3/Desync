@@ -3,8 +3,11 @@
 **Desync** is a universal Roblox desync script that requires an executor with the `setfflag` function 
 
 ## Tested Games
-- Bedwars  
-- Baseplate  
+- Bedwars
+- Steal a Brainrot
+- Dahood
+- Prison Life
+- Baseplate
 
 ## Supported PC Executors
 - Volcano  
