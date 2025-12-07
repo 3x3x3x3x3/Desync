@@ -12,6 +12,12 @@
 - Wave  
 - Potassium  
 
+## Maube Supported Mobile Executors (not tested)
+- Codex
+- Arceus X
+- Fluxus Z
+- Delta
+
 ## Notes
 - Make sure your executor supports `setfflag` before using
 - Use at your own risk Roblox Might Patch This
