@@ -1,6 +1,6 @@
 # Desync
 
-**Desync** is a universal Roblox desync script that requires an executor with the `setfflag` function.  
+**Desync** is a universal Roblox desync script that requires an executor with the `setfflag` function 
 
 ## Tested Games
 - Bedwars  
@@ -13,5 +13,5 @@
 - Potassium  
 
 ## Notes
-- Make sure your executor supports `setfflag` before using.  
-- Use at your own risk
+- Make sure your executor supports `setfflag` before using
+- Use at your own risk Roblox Might Patch This
